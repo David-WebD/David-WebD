@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @David-WebD 🏳️‍🌈
   
 # 😁 A little about me:
+- 🏫 Currently studying: HND Web Development. Glasgow Clyde College. 
 - 👀 I’m interested in Gaming, Anime, and Films.
 - 😋 I'm a foodie. 🍒🍓🥝🍌🍅🍑🍍
 - 🏯 I dream of travelling to Asia.
